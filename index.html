@@ -1,113 +1,23 @@
-<!doctype html>
-<html>
-  <head>
-        <meta charset="">
-    <meta http-equiv="X-UA-Compatible" content="">
+---
+layout: default
+---
 
-    <title>Aditya Kumar Akash</title>
-    <meta name="description" content="Home page of Aditya Kumar Akash">
-    <meta name="author" content="Aditya Kumar Akash">
+<div class="home">
 
-    <!--  Mobile viewport optimized: j.mp/bplateviewport -->
-    <meta name="viewport" content="">
+  <h1 class="page-heading">Posts</h1>
 
-    
-          <!--<link rel="stylesheet" href="https://github.com/themes/minimal/stylesheets/styles.css">-->
-      <link rel="stylesheet" href="media/js/styles.css">
-      <style>
-        header { zoom: 1.2; }
-        header h1 { margin-bottom: 5px; }
-        header h1 a { color: #494949; font-weight: bold; }
-        header h3 { margin-top: 20px; margin-bottom: 5px; }
-        header p.view { margin-bottom: 5px; }
-        header p.view small { padding-top: 2px; }
-        header ul {
-          zoom: 0.7;
-          margin-top: 25px;
-        }
-        section p { margin-top: 10px; }
-        section h1 { margin-bottom: 15px; }
-        section h2 { margin-bottom: 10px; }
-        section h2 { margin-bottom: 10px; }
-        footer { bottom: 20px; }
-        footer p { margin-bottom: 5px; }
-        .half-width {
-          float: left;
-          width: 200px;
-          list-style: none;
-          padding: 5px;
-          margin: 7px;
-          margin-bottom: 10px;
-        }
-        .half-width h4 {
-          margin-bottom: 5px;
-        }
-        .half-width ul {
-          padding-left: 0;
-        }
-        .half-width ul li {
-          list-style: inside;
-          font-size: 15px;
-        }
-        .clear-fix {
-          clear: both;
-        }
-      </style>
-      <!--<script src="https://github.com/themes/minimal/javascripts/scale.fix.js"></script>-->
-      <script src="media/js/scale.fix.js"></script>
-      </head> 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <body id="index">
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-          <div class="wrapper">
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-                  <header>
-                            <h1><a href="http://adityakumarakash.github.io/">Aditya Kumar Akash</a></h1>
-
-                            <br>	
-                <p class="view"><a href="research.html">Research</a></p>
-                <p class="view"><a href="industry.html">Industry Experience</a></p>
-                <p class="view"><a href="bio.html">Personal<small>All about me </small></a></p>
-                <p class="view"><a href="projects.html">Projects<small>useful code</small></a></p>
-                <p class="view"><a href="contact.html">Contact<small>my contact details</small></a></p>
-                        
-                            <h3>On the Web</h3>
-                <p class="view"><a href="http://github.com/adityakumarakash" target="tab">GitHub</a></p>
-                <!--<p class="view"><a href="https://bitbucket.org/ajdawson" target="tab">Bitbucket</a></p> -->
-                <!-- <p class="view"><a href="http://www2.physics.ox.ac.uk/contacts/people/dawson">Oxford Physics Profile</a></p> -->
-            
-          </header>
-
-          <section id="main">
-
-            <img src="media/images/adityakumarakash_cover.jpg" alt="Aditya Cover">
-<p>Currently working at Google, Bangalore. 
-<br>
-Previously I completed my Bachelors in <a href= "https://www.cse.iitb.ac.in/">Computer Science</a> with Honors at <a href = "http://iitb.ac.in/">Indian Institute of Technology, Bombay </a>, in 2016. </p>
-		<h3> Research Interests </h3>
-        Following are my areas of research:-
-		<ul>
-			<li>Machine Learning</li>
-			<li>Artifical Intelligence</li>
-		</ul>
-        My long term research goals are .
-        <br>
-        <br>
-        <h3> <a href ="cv/AdityaKumarAkashCV.pdf"> Curriculium Vitae </a></h3>
-                <!--		<p> <a href ="cv/AdityaKumarAkashCV.pdf"> Click here</a> to view my Curriculum Vitae </p> -->
-	
-
-          </section>
-                      <footer>
-              <p><small>Built with <a href="http://hyde.github.io/">Hyde</a> &mdash;
-                        Layout adapted from <a href="https://github.com/orderedlist">orderedlist</a>.</small></p>
-            </footer>
-
-          
-        
-      </div>
-
-    
-  </body>
-
-</html>
+</div>
