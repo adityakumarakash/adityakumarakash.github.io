@@ -1,0 +1,8 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
+Hi, I am currently working at Google, Bangalore. 
+I completed my Bachelors in Computer Science and Engineering with Honors at Indian Institute of Technology, Bombay, in 2016. 
