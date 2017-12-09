@@ -2,28 +2,28 @@
 layout: default
 ---
 <div class="home">
-        <div class="container">
-        <div class="row">
-                <div class="col-md-5">
-                        <center>
-                            <img src="/img/Aditya2.jpg" alt="Aditya" class="img-responsive img-rounded">
-                        </center>
-                        <br>
-                        <p class="Describe">Desc</p>
-                </div>
+        <div class="container-fluid">
+                <div class="row">
+                        <div class="col-md-5">
+                                <center>
+                                    <img src="/img/Aditya2.jpg" alt="Aditya" class="img-responsive img-rounded">
+                                </center>
+                                <br>
+                                <p class="Describe">Hi, I am ..</p>
+                        </div>
 
-                <div class="col-md-5 col-md-offset-2">
-                        <h1 class="page-heading">AKA</h1>
-                        <ul class="post-list">
-                         {% for post in site.posts %}
-                           <li>
-                             <h2>
-                               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                             </h2>
-                           </li>
-                         {% endfor %}
-                        </ul>
+                        <div class="col-md-5 col-md-offset-2">
+                                <h1 class="page-heading">AKA</h1>
+                                <ul class="post-list">
+                                 {% for post in site.posts %}
+                                   <li>
+                                     <h2>
+                                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                                     </h2>
+                                   </li>
+                                 {% endfor %}
+                                </ul>
+                        </div>
                 </div>
         </div>
-                </div>
 </div>
