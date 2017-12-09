@@ -1,27 +1,27 @@
 ---
 layout: default
 ---
-<div class="home">
+<div class="container">        
         <div class="row">
-           <div class="col-sm-6">
-                <center>
-                    <img src="/img/Aditya1.jpg" alt="Aditya" class="img-responsive img-circle">
-                </center>
-                <br>
-               <p class="Describe">Desc</p>
-            </div>
-           
-            <div class="col-sm-6">
-               <h1 class="page-heading">AKA</h1>
-               <ul class="post-list">
-                 {% for post in site.posts %}
-                   <li>
-                     <h2>
-                       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                     </h2>
-                   </li>
-                 {% endfor %}
-               </ul>
-            </div>
+                <div class="col-sm-6">
+                        <center>
+                            <img src="/img/Aditya1.jpg" alt="Aditya" class="img-responsive img-circle">
+                        </center>
+                        <br>
+                        <p class="Describe">Desc</p>
+                </div>
+
+                <div class="col-sm-6">
+                        <h1 class="page-heading">AKA</h1>
+                        <ul class="post-list">
+                         {% for post in site.posts %}
+                           <li>
+                             <h2>
+                               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                             </h2>
+                           </li>
+                         {% endfor %}
+                        </ul>
+                </div>
         </div>
 </div>
