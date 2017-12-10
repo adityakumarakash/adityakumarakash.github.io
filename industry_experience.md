@@ -3,8 +3,7 @@ layout: page
 title: Industry Experience
 permalink: /industry_experience/
 ---
-<br>
-
+****
 #### Google, Maps Auto-Moderation Team
 ##### Software Engineer, Bangalore
 * Currently working on auto-moderation system which is responsible for moderating millions of user edits on Google maps and preventing spam and graffiti attacks
