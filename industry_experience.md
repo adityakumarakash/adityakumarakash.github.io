@@ -10,8 +10,9 @@ permalink: /industry_experience/
 * Built user consensus and trust models for leveraging user votes to better decide the acceptance of edits on Maps
 * Reduced spam risk to the system and improved sensitivity of the graffiti detection model
 * Extensively worked with lattice regression based ensemble models
-  
-  
+
+<br><br>
+
 ### Microsoft, Bing Ads Team
 #### Intern, Bangalore
 * Worked on problem of predicting CTR (click through rate) for ads on Bing search
