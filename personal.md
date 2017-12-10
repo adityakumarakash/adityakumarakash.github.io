@@ -19,20 +19,22 @@ I am passionate about yoga and hiking. Helps me enjoy a balanced life :relaxed:.
 ![Yoga](https://adityakumarakash.github.io/img/headstand.jpg)
 Krabi, Thailand
 
-****
+<br>
 
 ![Harz](https://adityakumarakash.github.io/img/Harz.JPG)
 Harz Mountains, Germany
 
-****
+<br>
 
 ![Treck](https://adityakumarakash.github.io/img/Sylt.JPG)
 Sylt, Germany
 
-****
+<br>
 
 ![Rajmachi](https://adityakumarakash.github.io/img/Rajmachi.jpg)
 Rajmachi Fort Treck, Maharastra
+
+<br>
+
 ![KumarParvat](https://adityakumarakash.github.io/img/krparvat.JPG)
 Kumar Parvat Treck, Karnataka
-****
