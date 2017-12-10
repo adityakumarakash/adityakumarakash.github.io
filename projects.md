@@ -3,7 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Following are some of the projects I have done at IIT Bombay. Each project trying to explore a new concept in computer science.
+Following are some of the projects I have done at IIT Bombay. 
+
 ****
 <br>
 
