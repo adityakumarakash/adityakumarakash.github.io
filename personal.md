@@ -17,24 +17,29 @@ I am passionate about yoga and hiking. Helps me enjoy a balanced life :relaxed:.
 > To lose my mind and find my soul."
 
 ![Yoga](https://adityakumarakash.github.io/img/headstand.jpg)
-Krabi, Thailand
+[Krabi, Thailand](https://en.wikipedia.org/wiki/Krabi)
 
 <br>
 
 ![Harz](https://adityakumarakash.github.io/img/Harz.JPG)
-Harz Mountains, Germany
+[Harz Mountains, Germany](https://en.wikipedia.org/wiki/Harz)
 
 <br>
 
 ![Treck](https://adityakumarakash.github.io/img/Sylt.JPG)
-Sylt, Germany
+[Sylt, Germany](https://en.wikipedia.org/wiki/Sylt)
 
 <br>
 
 ![Rajmachi](https://adityakumarakash.github.io/img/Rajmachi.jpg)
-Rajmachi Fort Treck, Maharastra
+[Rajmachi Fort Treck, Maharastra](https://en.wikipedia.org/wiki/Rajmachi)
 
 <br>
 
 ![KumarParvat](https://adityakumarakash.github.io/img/krparvat.JPG)
-Kumar Parvat Treck, Karnataka
+[Kumar Parvat Treck, Karnataka](https://en.wikipedia.org/wiki/Pushpagiri_(mountain))
+
+<br>
+
+![Naneghat](https://adityakumarakash.github.io/img/naneghat.jpg)
+[Naneghat, Maharastra](https://en.wikipedia.org/wiki/Naneghat)
