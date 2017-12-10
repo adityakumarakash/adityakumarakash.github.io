@@ -16,4 +16,16 @@ I am passionate about yoga and hiking. Helps me enjoy a balanced life :relaxed:.
 > "And into the forest I go,
 > To lose my mind and find my soul."
 
+![Yoga](https://adityakumarakash.github.io/img/headstand.jpg)
+
+Harz mountains
+![Harz](https://adityakumarakash.github.io/img/Harz.JPG)
+
+Sylt
 ![Treck](https://adityakumarakash.github.io/img/Sylt.JPG)
+
+Rajmachi
+![Rajmachi](https://adityakumarakash.github.io/img/Rajmachi.jpg)
+
+Kumar Parvat
+![KumarParvat](https://adityakumarakash.github.io/img/krparvat.JPG)
