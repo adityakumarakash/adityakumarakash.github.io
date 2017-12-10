@@ -41,5 +41,10 @@ I am passionate about yoga and hiking. Helps me enjoy a balanced life :relaxed:.
 
 <br>
 
+![PhiPhi](https://adityakumarakash.github.io/img/PhiPhi.jpg)
+[PhiPhi Island](https://en.wikipedia.org/wiki/Phi_Phi_Islands)
+
+<br>
+
 ![Naneghat](https://adityakumarakash.github.io/img/naneghat.jpg)
 [Naneghat, Maharastra](https://en.wikipedia.org/wiki/Naneghat)
