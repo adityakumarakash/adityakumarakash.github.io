@@ -10,6 +10,8 @@ permalink: /industry_experience/
 ##### *Applied Scientist Intern, Summer 2020*
 * Research done on out-of-distribution detection methods for computer vision
 
+<br>
+
 #### Google, Maps Auto-Moderation Team
 ##### *Software Engineer, Bangalore, July 2016 - Aug 2018*
 * Worked on auto-moderation system which is responsible for moderating millions of user generated edits on Google Maps and preventing spam and graffiti attacks
