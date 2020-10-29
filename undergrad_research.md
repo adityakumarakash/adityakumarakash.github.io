@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Undergrad Research
+permalink: /undergrad_research/
 ---
+
+Undergraduate Research Work:
+
 ****
 <br>
 
