@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Graduate Course Projects:
+## Graduate Course Projects:
 
 ****
 
@@ -23,7 +23,7 @@ Integrated concepts from semi-discrete Optimal Transport (OT) with deep AR model
 
 <br>
 
-Undergraduate Projects:
+## Undergraduate Projects:
 
 ****
 <br>
