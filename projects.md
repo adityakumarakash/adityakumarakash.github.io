@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 Graduate Course Projects:
+
 ****
 
 <br>
@@ -20,7 +21,8 @@ Integrated concepts from semi-discrete Optimal Transport (OT) with deep AR model
 * Proposed learning consistency based regularizers from data to reduce inconsistency in videosegmentation and designed Segnet based architecture for the same.
 * Poster in Midwest Machine Learning Symposium (MMLS), 2019
 
-****
+<br>
+
 Undergraduate Projects:
 
 ****
