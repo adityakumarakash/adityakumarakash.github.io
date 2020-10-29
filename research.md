@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Graduate Research Work:
+## Graduate Research Work:
 
 ****
 <br>
@@ -44,7 +44,7 @@ Graduate Research Work:
 
 <br>
 
-Undergraduate Research Work:
+## Undergraduate Research Work:
 
 ****
 <br>
