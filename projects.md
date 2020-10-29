@@ -3,7 +3,25 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-Following are some of the projects I have done at IIT Bombay. (Undergraduate Projects)
+Graduate Course Projects:
+****
+
+<br>
+
+#### Improving Prediction Quality of Deep Autoregressive (AR) Models via Semi-Discrete Optimal Transport
+##### *Guide: Prof. Nicolas Garcias Trillos, Fall 2019*
+Integrated concepts from semi-discrete Optimal Transport (OT) with deep AR models toimprove the quality of generated images.
+[Report](https://drive.google.com/file/d/1n-SO3WN4JtTcTDsFWsjl9Dq5-YhTGQnj/view)
+
+<br>
+
+#### Reducing Inconsistency in Video Segmentation using Learned Regularizers
+##### *Guide: Prof Yin Li, Spring 2019*
+* Proposed learning consistency based regularizers from data to reduce inconsistency in videosegmentation and designed Segnet based architecture for the same.
+* Poster in Midwest Machine Learning Symposium (MMLS), 2019
+
+****
+Undergraduate Projects:
 
 ****
 <br>
