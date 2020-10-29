@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Industry
-permalink: /industry_experience/
+title: Work Experience
+permalink: /work_experience/
 ---
 ****
 <br>
