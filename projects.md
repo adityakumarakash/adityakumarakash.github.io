@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UndergradProjects
-permalink: /undergrad_projects/
+title: Projects
+permalink: /projects/
 ---
 Following are some of the projects I have done at IIT Bombay. (Undergraduate Projects)
 
