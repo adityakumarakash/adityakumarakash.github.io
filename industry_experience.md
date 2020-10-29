@@ -6,17 +6,21 @@ permalink: /industry_experience/
 ****
 <br>
 
+#### Amazon, AWS
+##### *Applied Scientist Intern*
+* Research done on out-of-distribution detection methods for computer vision
+
 #### Google, Maps Auto-Moderation Team
 ##### *Software Engineer, Bangalore*
-* Currently working on auto-moderation system which is responsible for moderating millions of user edits on Google maps and preventing spam and graffiti attacks
+* Worked on auto-moderation system which is responsible for moderating millions of user generated edits on Google Maps and preventing spam and graffiti attacks
 * Built user consensus and trust models for leveraging user votes to better decide the acceptance of edits on Maps
-* Reduced spam risk to the system and improved sensitivity of the graffiti detection model
-* Extensively worked with lattice regression based ensemble models
+* Designed and launched the re-moderation system (internally) to clear backlog edits using new latest signals
+* Improved the graffiti detection system by integrating news popularity of edited Maps features
 
 <br>
 
 #### Microsoft, Bing Ads Team
-##### *Intern, Bangalore*
+##### *Software Engineer ML Intern, Bangalore*
 * Worked on problem of predicting CTR (click through rate) for ads on Bing search
 * Used metasearch techniques along with mixture models and boosted fast tree regression to combine relevance scores of queries and related keywords obtained from various algorithms
 * Implemented the solution on Microsoft’s internal big data platform
