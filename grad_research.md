@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Undergrad Research
-permalink: /undergrad_research/
+title: Grad Research
+permalink: /grad_research/
 ---
 
 Undergraduate Research Work:
