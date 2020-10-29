@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Industry Experience
+title: Industry
 permalink: /industry_experience/
 ---
 ****
