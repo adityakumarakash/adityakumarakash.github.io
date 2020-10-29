@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UnderGradResearch
-permalink: /undergrad_research/
+title: Research
+permalink: /research/
 ---
 ****
 <br>
