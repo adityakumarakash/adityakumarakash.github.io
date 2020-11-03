@@ -29,7 +29,7 @@ permalink: /research/
 <br>
 
 #### Model Fusion using Optimal Transport Framework
-##### Guide: Prof Nicolas Garcia Trillos, *Fall 2021, Ongoing*
+##### Guide: Prof Nicolas Garcia Trillos, *Fall 2020, Ongoing*
 * Working on a principled approach to combine multiple deep models using optimal transport
 * Our proposed framework unifies the existing ad hoc methods and has applications inknowledge distillation and federated learning
 
